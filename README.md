@@ -1,6 +1,6 @@
 # EXP-1-PROMPT-ENGINEERING-
 
-## Soniya D(212223060268)
+## LOGESHWARI R(212223060137)
 
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
